@@ -195,7 +195,7 @@ These codes utilize a more refined card layout and separate "upload" and "summar
 Turn off authentication  
 <img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/b2e28e58-1026-4a6a-bce2-9582c87d01f2" />  
 
-URL of App:https://platform.deepseek.com/api_keys
+URL of App: https://ai-summary-app1.vercel.app/
 
 
 
